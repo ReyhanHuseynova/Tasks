@@ -6,7 +6,7 @@ namespace Projects
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello BootCamp");
+            Console.WriteLine("Hello BootCamp 102");
         }
     }
 }
